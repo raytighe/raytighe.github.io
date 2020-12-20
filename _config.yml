@@ -30,4 +30,4 @@ linkedin: raytighe
 # needed for travis-ci build
 exclude: [vendor]
 
-theme: jekyll-theme-cayman
+# theme: jekyll-theme-cayman
